@@ -30,7 +30,6 @@
 
 
 <div align=left>
-[default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
 <img src="https://github-readme-stats.vercel.app/api?username=SaeDaa1029&show_icons=true">
 </div>
 <br>
