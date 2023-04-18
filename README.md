@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Ui%20Taek's%20Github&fontSize=90" />
 
 
 ## Profile
