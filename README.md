@@ -6,7 +6,7 @@
 👶 1998.07.28 <br>
 📞 010-7271-6604 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlstk3031@gmail.com)](mailto:dlstk3031@gmail.com) <span><a href="[https://www.naver.com](https://www.notion.so/36c68f5b9842423789d3ddea65e69b87)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlstk3031@gmail.com)](mailto:dlstk3031@gmail.com) <span><a href="[https://www.naver.com](https://www.naver.com)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
