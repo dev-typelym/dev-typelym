@@ -29,8 +29,8 @@
 
 
 
-<div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-typelym&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=dev-typelym&show_icons=true">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-typelym&show_icons=true&cache_seconds=21600" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-typelym&layout=compact&cache_seconds=21600" width="70%" />
 </div>
 <br>
