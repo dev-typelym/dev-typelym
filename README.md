@@ -31,6 +31,6 @@
 
 <div align=left>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-typelym&layout=compact">
-<img src="github-readme-stats.vercel.app/api?username=dev-typelym&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=dev-typelym&show_icons=true">
 </div>
 <br>
