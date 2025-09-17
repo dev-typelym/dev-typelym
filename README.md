@@ -40,3 +40,18 @@
   </tr>
 </table>
 <br>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="40%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-typelym&layout=compact&cache_seconds=21600&hide_border=true"
+        height="190"/>
+    </td>
+    <td width="60%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=dev-typelym&show_icons=true&cache_seconds=21600&hide_border=true"
+        height="190"/>
+    </td>
+  </tr>
+</table>
